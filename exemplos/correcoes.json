@@ -1,0 +1,8 @@
+[
+  {"pagina": 1, "acao": "substituir", "trecho": "a agua dos rios", "novo": "a água dos rios"},
+  {"pagina": 1, "acao": "substituir", "trecho": "90 °C", "novo": "100 °C"},
+  {"pagina": 1, "acao": "riscar", "trecho": "Esse caminho foi descoberto no ano passado."},
+  {"pagina": 1, "acao": "inserir", "trecho": "abastecendo os", "texto": "lençóis"},
+  {"pagina": 1, "acao": "comentar", "trecho": "Figura 1", "texto": "Iconografia: trocar a ilustração por uma que mostre também a infiltração da água no solo."},
+  {"pagina": 2, "acao": "excluir_pagina", "texto": "Diagramação: excluir esta página. A atividade 1 repete a da página 42 e a 2 passa para lá."}
+]
